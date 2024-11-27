@@ -1,6 +1,3 @@
-create a readme file for my github to upload my weather prediction model where i take real time of dehradun of temperature and humudity from api and aslo weather description for 2 years and store in csv files and then i trained my model based on it as it was imbalanced class problem so i use smote tomek to increase it class count and even use weight and use catboost algorithm which is boosting technique and it give accuracy of 80 percentage with a overall good auc roc and also perfect recall and precision and then i use streamlit to make gui for it and i load my model in joblib
-Sure! Here's a detailed README file for your GitHub repository:
-
 Weather Prediction Model
 This repository contains a weather prediction model that forecasts weather conditions in Dehradun, India based on real-time temperature, humidity, and weather descriptions. The model uses 2 years of historical weather data, handles class imbalance with SMOTE Tomek, and is built using the CatBoost algorithm. The final model is deployed with a Streamlit GUI.
 

@@ -82,7 +82,7 @@ Usage
 Clone the repository:
 
 sh
-git clone https://github.com//weather-prediction-model.git
+git clone https://github.com/rajbasnet123789/Weather-prediction-of-dehradun?tab=readme-ov-file
 cd weather-prediction-model
 Install the required packages:
 
@@ -96,7 +96,7 @@ Installation
 Clone the repository:
 
 sh
-git clone https://github.com/rajbasnet123789/weather-prediction-model.git
+git clone https://github.com/rajbasnet123789/Weather-prediction-of-dehradun?tab=readme-ov-file
 Navigate to the project directory:
 
 sh

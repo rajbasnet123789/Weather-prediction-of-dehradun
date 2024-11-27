@@ -96,7 +96,7 @@ Installation
 Clone the repository:
 
 sh
-git clone https://github.com/yourusername/weather-prediction-model.git
+git clone https://github.com/rajbasnet123789/weather-prediction-model.git
 Navigate to the project directory:
 
 sh
